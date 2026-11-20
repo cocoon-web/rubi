@@ -29,11 +29,11 @@ Está pensada especialmente con personas **autistas y con TDAH** en mente. Si es
 
 | Modo suave | Modo mandona |
 |---|---|
-| ![Modo suave](docs/screenshots/01-modo-suave.png) | ![Modo mandona activado](docs/screenshots/02-modo-mandona.png) |
+| ![Modo suave](img/rubi-modo-suave.jpg) | ![Modo mandona activado](img/rubi-modo-mandona.jpg) |
 
 | Desbloquear tarea | No sé por dónde empezar | Completé el paso |
 |---|---|---|
-| ![Desbloquear tarea](docs/screenshots/03-desbloquear-tarea.png) | ![No sé por dónde empezar](docs/screenshots/04-no-se-por-donde-empezar.png) | ![Completé el paso](docs/screenshots/05-complete-el-paso.png) |
+| ![Desbloquear tarea](img/rubi-desbloquear-tarea.jpg) | ![No sé por dónde empezar](img/rubi-no-se-por-donde-empezar.jpg) | ![Completé el paso](img/rubi-complete-el-paso.jpg) |
 
 ## 🔬 Estudio piloto
 
